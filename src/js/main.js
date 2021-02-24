@@ -1,7 +1,5 @@
 'use strict';
 
-console.log('>> Ready :)');
-
 document.addEventListener('DOMContentLoaded', () => {
     const grid = document.querySelector('.grid');
     const width = 8;

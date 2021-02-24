@@ -4,15 +4,15 @@ body {
   background-color: $color-bg;
   font-family: $font-main;
 
-.grid {
-  height: 560px;
-  width: 560px;
-  display: flex;
-  flex-wrap: wrap;
-}
+  .grid {
+    height: 560px;
+    width: 560px;
+    display: flex;
+    flex-wrap: wrap;
+  }
 
-.grid div {
-height: 70px;
-width: 70px;
-} 
+  .grid div {
+    height: 70px;
+    width: 70px;
+  }
 }
